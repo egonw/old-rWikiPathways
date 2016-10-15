@@ -14,7 +14,7 @@ you may also like these R packages:
 
 # How to install
 
-    > install.packages(c("curl", "plyr", "jsonlite")) # dependencies
+    > install.packages(c("curl", "plyr", "jsonlite", "bitops", "urltools")) # dependencies
     > install.packages("testthat") # if you want to test the package
     > install.packages("devtools") # to install from GitHub
     > library(devtools)
